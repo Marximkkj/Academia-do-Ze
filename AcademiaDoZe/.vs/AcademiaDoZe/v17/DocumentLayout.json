@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\marcos\\Visual-Studio\\AcademiaDoZe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C2710F-3457-4A95-B087-3D3C9563A672}|..\\AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|d:\\marcos\\visual-studio\\academiadoze.presentation.appmaui\\views\\configpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C2710F-3457-4A95-B087-3D3C9563A672}|..\\AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|d:\\marcos\\visual-studio\\academiadoze.presentation.appmaui\\views\\configpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C2710F-3457-4A95-B087-3D3C9563A672}|..\\AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|d:\\marcos\\visual-studio\\academiadoze.presentation.appmaui\\views\\alunopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B1B465-D4E2-4E23-9761-A18648532F80}|..\\AcademiaDoZe.Application.Tests\\AcademiaDoZe.Application.Tests.csproj|d:\\marcos\\visual-studio\\academiadoze.application.tests\\moq\\moqcolaboradorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C2710F-3457-4A95-B087-3D3C9563A672}|..\\AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|d:\\marcos\\visual-studio\\academiadoze.presentation.appmaui\\views\\colaboradorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C2710F-3457-4A95-B087-3D3C9563A672}|..\\AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|d:\\marcos\\visual-studio\\academiadoze.presentation.appmaui\\viewmodels\\matriculalistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C2710F-3457-4A95-B087-3D3C9563A672}|..\\AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|d:\\marcos\\visual-studio\\academiadoze.presentation.appmaui\\views\\matriculalistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C2710F-3457-4A95-B087-3D3C9563A672}|..\\AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|d:\\marcos\\visual-studio\\academiadoze.presentation.appmaui\\views\\matriculalistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C2710F-3457-4A95-B087-3D3C9563A672}|..\\AcademiaDoZe.Presentation.AppMaui\\AcademiaDoZe.Presentation.AppMaui.csproj|d:\\marcos\\visual-studio\\academiadoze.presentation.appmaui\\views\\matriculapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF3E5C7-DD64-4F77-9DB1-7C4978F088EE}|..\\AcademiaDoZe.Infraestrutura.Tests\\AcademiaDoZe.Infraestrutura.Tests.csproj|d:\\marcos\\visual-studio\\academiadoze.infraestrutura.tests\\colaboradorinfraestruturatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EA4CB2-226B-4429-B92C-E1FCA3206A74}|..\\AcademiaDoZe.Domain.Tests\\AcademiaDoZe.Domain.Tests.csproj|d:\\marcos\\visual-studio\\academiadoze.domain.tests\\alunodomaintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfigPage.xaml.cs",
+              "DocumentMoniker": "D:\\marcos\\Visual-Studio\\AcademiaDoZe.Presentation.AppMaui\\Views\\ConfigPage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\AcademiaDoZe.Presentation.AppMaui\\Views\\ConfigPage.xaml.cs",
+              "ToolTip": "D:\\marcos\\Visual-Studio\\AcademiaDoZe.Presentation.AppMaui\\Views\\ConfigPage.xaml.cs",
+              "RelativeToolTip": "..\\AcademiaDoZe.Presentation.AppMaui\\Views\\ConfigPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:17:32.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfigPage.xaml",
+              "DocumentMoniker": "D:\\marcos\\Visual-Studio\\AcademiaDoZe.Presentation.AppMaui\\Views\\ConfigPage.xaml",
+              "RelativeDocumentMoniker": "..\\AcademiaDoZe.Presentation.AppMaui\\Views\\ConfigPage.xaml",
+              "ToolTip": "D:\\marcos\\Visual-Studio\\AcademiaDoZe.Presentation.AppMaui\\Views\\ConfigPage.xaml",
+              "RelativeToolTip": "..\\AcademiaDoZe.Presentation.AppMaui\\Views\\ConfigPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-25T02:17:28.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AlunoDomainTests.cs",
+              "DocumentMoniker": "D:\\marcos\\Visual-Studio\\AcademiaDoZe.Domain.Tests\\AlunoDomainTests.cs",
+              "RelativeDocumentMoniker": "..\\AcademiaDoZe.Domain.Tests\\AlunoDomainTests.cs",
+              "ToolTip": "D:\\marcos\\Visual-Studio\\AcademiaDoZe.Domain.Tests\\AlunoDomainTests.cs",
+              "RelativeToolTip": "..\\AcademiaDoZe.Domain.Tests\\AlunoDomainTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T01:59:49.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ColaboradorInfraestruturaTests.cs",
+              "DocumentMoniker": "D:\\marcos\\Visual-Studio\\AcademiaDoZe.Infraestrutura.Tests\\ColaboradorInfraestruturaTests.cs",
+              "RelativeDocumentMoniker": "..\\AcademiaDoZe.Infraestrutura.Tests\\ColaboradorInfraestruturaTests.cs",
+              "ToolTip": "D:\\marcos\\Visual-Studio\\AcademiaDoZe.Infraestrutura.Tests\\ColaboradorInfraestruturaTests.cs",
+              "RelativeToolTip": "..\\AcademiaDoZe.Infraestrutura.Tests\\ColaboradorInfraestruturaTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T01:05:11.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MatriculaPage.xaml",
+              "DocumentMoniker": "D:\\marcos\\Visual-Studio\\AcademiaDoZe.Presentation.AppMaui\\Views\\MatriculaPage.xaml",
+              "RelativeDocumentMoniker": "..\\AcademiaDoZe.Presentation.AppMaui\\Views\\MatriculaPage.xaml",
+              "ToolTip": "D:\\marcos\\Visual-Studio\\AcademiaDoZe.Presentation.AppMaui\\Views\\MatriculaPage.xaml",
+              "RelativeToolTip": "..\\AcademiaDoZe.Presentation.AppMaui\\Views\\MatriculaPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-25T00:34:37.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MatriculaListPage.xaml.cs",
+              "DocumentMoniker": "D:\\marcos\\Visual-Studio\\AcademiaDoZe.Presentation.AppMaui\\Views\\MatriculaListPage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\AcademiaDoZe.Presentation.AppMaui\\Views\\MatriculaListPage.xaml.cs",
+              "ToolTip": "D:\\marcos\\Visual-Studio\\AcademiaDoZe.Presentation.AppMaui\\Views\\MatriculaListPage.xaml.cs",
+              "RelativeToolTip": "..\\AcademiaDoZe.Presentation.AppMaui\\Views\\MatriculaListPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T00:32:50.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MatriculaListPage.xaml",
+              "DocumentMoniker": "D:\\marcos\\Visual-Studio\\AcademiaDoZe.Presentation.AppMaui\\Views\\MatriculaListPage.xaml",
+              "RelativeDocumentMoniker": "..\\AcademiaDoZe.Presentation.AppMaui\\Views\\MatriculaListPage.xaml",
+              "ToolTip": "D:\\marcos\\Visual-Studio\\AcademiaDoZe.Presentation.AppMaui\\Views\\MatriculaListPage.xaml",
+              "RelativeToolTip": "..\\AcademiaDoZe.Presentation.AppMaui\\Views\\MatriculaListPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-25T00:31:00.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MatriculaListViewModel.cs",
+              "DocumentMoniker": "D:\\marcos\\Visual-Studio\\AcademiaDoZe.Presentation.AppMaui\\ViewModels\\MatriculaListViewModel.cs",
+              "RelativeDocumentMoniker": "..\\AcademiaDoZe.Presentation.AppMaui\\ViewModels\\MatriculaListViewModel.cs",
+              "ToolTip": "D:\\marcos\\Visual-Studio\\AcademiaDoZe.Presentation.AppMaui\\ViewModels\\MatriculaListViewModel.cs",
+              "RelativeToolTip": "..\\AcademiaDoZe.Presentation.AppMaui\\ViewModels\\MatriculaListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T00:26:44.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ColaboradorPage.xaml",
+              "DocumentMoniker": "D:\\marcos\\Visual-Studio\\AcademiaDoZe.Presentation.AppMaui\\Views\\ColaboradorPage.xaml",
+              "RelativeDocumentMoniker": "..\\AcademiaDoZe.Presentation.AppMaui\\Views\\ColaboradorPage.xaml",
+              "ToolTip": "D:\\marcos\\Visual-Studio\\AcademiaDoZe.Presentation.AppMaui\\Views\\ColaboradorPage.xaml",
+              "RelativeToolTip": "..\\AcademiaDoZe.Presentation.AppMaui\\Views\\ColaboradorPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKIAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T03:18:28.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoqColaboradorServiceTests.cs",
+              "DocumentMoniker": "D:\\marcos\\Visual-Studio\\AcademiaDoZe.Application.Tests\\Moq\\MoqColaboradorServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\AcademiaDoZe.Application.Tests\\Moq\\MoqColaboradorServiceTests.cs",
+              "ToolTip": "D:\\marcos\\Visual-Studio\\AcademiaDoZe.Application.Tests\\Moq\\MoqColaboradorServiceTests.cs",
+              "RelativeToolTip": "..\\AcademiaDoZe.Application.Tests\\Moq\\MoqColaboradorServiceTests.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAiwNEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T03:00:16.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlunoPage.xaml.cs",
+              "DocumentMoniker": "D:\\marcos\\Visual-Studio\\AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoPage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoPage.xaml.cs",
+              "ToolTip": "D:\\marcos\\Visual-Studio\\AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoPage.xaml.cs",
+              "RelativeToolTip": "..\\AcademiaDoZe.Presentation.AppMaui\\Views\\AlunoPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:29:09.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

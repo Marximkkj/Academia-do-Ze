@@ -1,0 +1,15 @@
+D:\marcos\Visual-Studio\AcademiaDoZe.Infraestrutura\bin\Debug\net9.0\AcademiaDoZe.Infraestrutura.deps.json
+D:\marcos\Visual-Studio\AcademiaDoZe.Infraestrutura\bin\Debug\net9.0\AcademiaDoZe.Infraestrutura.dll
+D:\marcos\Visual-Studio\AcademiaDoZe.Infraestrutura\bin\Debug\net9.0\AcademiaDoZe.Infraestrutura.pdb
+D:\marcos\Visual-Studio\AcademiaDoZe.Infraestrutura\bin\Debug\net9.0\AcademiaDoZe.Dominio.dll
+D:\marcos\Visual-Studio\AcademiaDoZe.Infraestrutura\bin\Debug\net9.0\AcademiaDoZe.Dominio.pdb
+D:\marcos\Visual-Studio\AcademiaDoZe.Infraestrutura\obj\Debug\net9.0\AcademiaDoZe.Infraestrutura.csproj.AssemblyReference.cache
+D:\marcos\Visual-Studio\AcademiaDoZe.Infraestrutura\obj\Debug\net9.0\AcademiaDoZe.Infraestrutura.GeneratedMSBuildEditorConfig.editorconfig
+D:\marcos\Visual-Studio\AcademiaDoZe.Infraestrutura\obj\Debug\net9.0\AcademiaDoZe.Infraestrutura.AssemblyInfoInputs.cache
+D:\marcos\Visual-Studio\AcademiaDoZe.Infraestrutura\obj\Debug\net9.0\AcademiaDoZe.Infraestrutura.AssemblyInfo.cs
+D:\marcos\Visual-Studio\AcademiaDoZe.Infraestrutura\obj\Debug\net9.0\AcademiaDoZe.Infraestrutura.csproj.CoreCompileInputs.cache
+D:\marcos\Visual-Studio\AcademiaDoZe.Infraestrutura\obj\Debug\net9.0\Academia.58F8DE4D.Up2Date
+D:\marcos\Visual-Studio\AcademiaDoZe.Infraestrutura\obj\Debug\net9.0\AcademiaDoZe.Infraestrutura.dll
+D:\marcos\Visual-Studio\AcademiaDoZe.Infraestrutura\obj\Debug\net9.0\refint\AcademiaDoZe.Infraestrutura.dll
+D:\marcos\Visual-Studio\AcademiaDoZe.Infraestrutura\obj\Debug\net9.0\AcademiaDoZe.Infraestrutura.pdb
+D:\marcos\Visual-Studio\AcademiaDoZe.Infraestrutura\obj\Debug\net9.0\ref\AcademiaDoZe.Infraestrutura.dll

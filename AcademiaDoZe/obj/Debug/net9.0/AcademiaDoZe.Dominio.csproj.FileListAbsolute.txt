@@ -1,0 +1,12 @@
+D:\marcos\Visual-Studio\AcademiaDoZe\bin\Debug\net9.0\AcademiaDoZe.Dominio.deps.json
+D:\marcos\Visual-Studio\AcademiaDoZe\bin\Debug\net9.0\AcademiaDoZe.Dominio.dll
+D:\marcos\Visual-Studio\AcademiaDoZe\bin\Debug\net9.0\AcademiaDoZe.Dominio.pdb
+D:\marcos\Visual-Studio\AcademiaDoZe\obj\Debug\net9.0\AcademiaDoZe.Dominio.csproj.AssemblyReference.cache
+D:\marcos\Visual-Studio\AcademiaDoZe\obj\Debug\net9.0\AcademiaDoZe.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\marcos\Visual-Studio\AcademiaDoZe\obj\Debug\net9.0\AcademiaDoZe.Dominio.AssemblyInfoInputs.cache
+D:\marcos\Visual-Studio\AcademiaDoZe\obj\Debug\net9.0\AcademiaDoZe.Dominio.AssemblyInfo.cs
+D:\marcos\Visual-Studio\AcademiaDoZe\obj\Debug\net9.0\AcademiaDoZe.Dominio.csproj.CoreCompileInputs.cache
+D:\marcos\Visual-Studio\AcademiaDoZe\obj\Debug\net9.0\AcademiaDoZe.Dominio.dll
+D:\marcos\Visual-Studio\AcademiaDoZe\obj\Debug\net9.0\refint\AcademiaDoZe.Dominio.dll
+D:\marcos\Visual-Studio\AcademiaDoZe\obj\Debug\net9.0\AcademiaDoZe.Dominio.pdb
+D:\marcos\Visual-Studio\AcademiaDoZe\obj\Debug\net9.0\ref\AcademiaDoZe.Dominio.dll

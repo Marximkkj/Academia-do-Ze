@@ -1,0 +1,7 @@
+D:\marcos\Visual-Studio\AcademiaDoZe.Infraestructure.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_AcademiaDoZe.Infrastructure.Tests
+D:\marcos\Visual-Studio\AcademiaDoZe.Infraestructure.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_AcademiaDoZe.Infrastructure.Tests
+D:\marcos\Visual-Studio\AcademiaDoZe.Infraestructure.Tests\obj\Debug\net9.0\AcademiaDoZe.Infrastructure.Tests.csproj.AssemblyReference.cache
+D:\marcos\Visual-Studio\AcademiaDoZe.Infraestructure.Tests\obj\Debug\net9.0\AcademiaDoZe.Infrastructure.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\marcos\Visual-Studio\AcademiaDoZe.Infraestructure.Tests\obj\Debug\net9.0\AcademiaDoZe.Infrastructure.Tests.AssemblyInfoInputs.cache
+D:\marcos\Visual-Studio\AcademiaDoZe.Infraestructure.Tests\obj\Debug\net9.0\AcademiaDoZe.Infrastructure.Tests.AssemblyInfo.cs
+D:\marcos\Visual-Studio\AcademiaDoZe.Infraestructure.Tests\obj\Debug\net9.0\AcademiaDoZe.Infrastructure.Tests.csproj.CoreCompileInputs.cache

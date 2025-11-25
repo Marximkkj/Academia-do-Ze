@@ -1,0 +1,7 @@
+images\academiadoze_claro;images\academiadoze_claro
+images\academiadoze_escuro;images\academiadoze_escuro
+images\dotnet_bot;images\dotnet_bot
+images\en_us;images\en_us
+images\es_es;images\es_es
+images\pt_br;images\pt_br
+raw\aboutassets;raw\AboutAssets

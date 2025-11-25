@@ -1,0 +1,12 @@
+D:\marcos\Visual-Studio\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\AcademiaDoZe.Presentation.AppMaui.csproj.AssemblyReference.cache
+D:\marcos\Visual-Studio\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+D:\marcos\Visual-Studio\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+D:\marcos\Visual-Studio\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+D:\marcos\Visual-Studio\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+D:\marcos\Visual-Studio\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+D:\marcos\Visual-Studio\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+D:\marcos\Visual-Studio\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+D:\marcos\Visual-Studio\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+D:\marcos\Visual-Studio\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\marcos\Visual-Studio\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+D:\marcos\Visual-Studio\AcademiaDoZe.Presentation.AppMaui\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\AcademiaDoZe.Presentation.AppMaui.GeneratedMSBuildEditorConfig.editorconfig

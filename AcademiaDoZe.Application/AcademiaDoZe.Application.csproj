@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <LangVersion>12.0</LangVersion> <!-- ou "latest" / "preview" se necessário -->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Moq" Version="4.20.72" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AcademiaDoZe.Infraestrutura\AcademiaDoZe.Infraestrutura.csproj" />
+    <ProjectReference Include="..\AcademiaDoZe\AcademiaDoZe.Dominio.csproj" />
+  </ItemGroup>
+
+</Project>
